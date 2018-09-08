@@ -6,7 +6,7 @@
   "author": "cubsfan46350 <cubsfan.46350@msn.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon"
+    "start": "nodemon index.js"
   },
   "dependencies": {
     "express": "^4.16.3",
