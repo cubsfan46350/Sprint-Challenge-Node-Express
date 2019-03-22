@@ -1,6 +1,6 @@
 # Review Questions
 
-## What is Node.js?
+## What is Node.js
 <!--It is a runtime environment that runs javascript code outside of the browser-->
 ## What is Express?
 <!--It is a framework for Node JS to build Web Apps -->
